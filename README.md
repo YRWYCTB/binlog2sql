@@ -26,6 +26,7 @@ binlog2sql
 ```
 shell> git clone https://github.com/danfengcao/binlog2sql.git && cd binlog2sql
 shell> pip install -r requirements.txt
+mysql8.0 需要更新pymysql==0.9.3
 ```
 git与pip的安装问题请自行搜索解决。
 
